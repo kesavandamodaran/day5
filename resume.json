@@ -1,0 +1,39 @@
+{
+    "name": "Kesavan",
+    "contact": {
+      "email": "jvjshjh@gmail.com",
+      "phone": "9987654321",
+      "address": "123 Main Street, City, State, ZIP"
+    },
+    "summary": "Experienced software engineer with a passion for developing innovative solutions. Skilled in full-stack web development, with expertise in JavaScript, Python, and various frameworks.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of XYZ",
+        "location": "City, State",
+        "graduation_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company": "Tech Solutions Inc.",
+        "location": "City, State",
+        "start_date": "2021",
+        "end_date": "Present",
+        "responsibilities": [
+          "Developed and maintained web applications using AngularJS, Node.js, and MongoDB.",
+          "Collaborated with cross-functional teams to design and implement new features.",
+          "Participated in code reviews and provided constructive feedback to peers.",
+          "Investigated and resolved bugs and performance issues to ensure product stability.",
+          "Mentored junior developers, providing guidance on best practices and coding standards."
+        ]
+}],
+    "skills": {
+      "programming_languages": ["JavaScript", "Python", "Java"],
+      "web_technologies": ["HTML", "CSS", "React.js", "Node.js"],
+      "databases": ["MongoDB", "MySQL", "SQLite"],
+      "tools": ["Git", "VS Code", "Eclipse"]
+    }
+  }
+  
